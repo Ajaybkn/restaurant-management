@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "name": "ajay",
+      "email": "ask@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": " pandey ji",
+      "email": "pp@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "centrik",
+      "email": "centrik@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "hanuman",
+      "email": "h@g.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "ajay",
+      "email": "a@a.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "123456",
+      "id": 7
+    }
+  ],
+  "restaurant": []
+}
